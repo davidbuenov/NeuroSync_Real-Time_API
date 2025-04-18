@@ -1,0 +1,14 @@
+flask
+torch
+numpy
+librosa
+resampy
+Pillow
+transformers
+safetensors
+# para cargar whisper sst
+git+https://github.com/openai/whisper.git
+# para cargar tts 
+kokoro
+soundfile
+flask
